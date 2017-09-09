@@ -15,7 +15,7 @@
   transition: .4s;
   padding: 0 10px;
   box-sizing: border-box;
-  font-family: "Pathway Gothic One", sans-serif;
+  font-family: "Pathway Gothic One",Hind, sans-serif;
   color: #fff;
 }
 .timeline__content-desc {
@@ -61,7 +61,7 @@
   position: absolute;
   color: rgba(255, 255, 255, 0.5);
   font-size: 13px;
-  font-family: "Pathway Gothic One", sans-serif;
+  font-family: "Pathway Gothic One", Hind, sans-serif;
   border-left: 2px solid rgba(255, 255, 255, 0.5);
   top: 70%;
   margin-top: -5px;
