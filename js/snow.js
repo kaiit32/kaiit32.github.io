@@ -1,4 +1,3 @@
-// Snow: https://codepen.io/otsukatomoya/pen/gbDxF/
 
 var w = window.innerWidth,
     h = window.innerHeight,
