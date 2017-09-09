@@ -6,8 +6,6 @@
     *height:130px;           /*IE6、IE7识别，但上一段代码中!important的级别比*号的级别高，所以此段代码只有IE6中才有效*/ 
 }
 
-
-
 .timeline {
   display: flex;
   margin: 0 auto;
@@ -122,6 +120,7 @@
 }
 .timeline__img {
   max-width: 100%;
+  width: 300px;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.4);
 }
 .timeline-container {
