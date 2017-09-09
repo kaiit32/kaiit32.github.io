@@ -1,4 +1,13 @@
-@import url("https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One");
+@import url("Pathyway.css");
+.warp{
+    Height:100px;          /*IE6、IE7、IE8、FF识别*/ 
+    Height:110px\9;       /*IE8识别*/  
+    *height:120px!important;        /*IE7 识别*/  
+    *height:130px;           /*IE6、IE7识别，但上一段代码中!important的级别比*号的级别高，所以此段代码只有IE6中才有效*/ 
+}
+
+
+
 .timeline {
   display: flex;
   margin: 0 auto;
