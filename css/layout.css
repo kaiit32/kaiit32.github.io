@@ -10,13 +10,13 @@ html, html a, body {
 }
 
 body {
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
 }
 
 p {
   font-size: 15px;
   font-weight: 400;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #a6a7aa;
   line-height: 1.4;
   margin-bottom: 15px;
@@ -27,12 +27,12 @@ li,
 li a {
   font-size: 16px;
   font-weight: 500;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #515769;
 }
 
 a {
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #81848f;
   outline: 0;
 }
@@ -47,7 +47,7 @@ a:focus, a:hover, a:active {
   position: relative;
   font-size: 13px;
   font-weight: 600;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   text-transform: uppercase;
 }
 
@@ -64,13 +64,13 @@ a:focus, a:hover, a:active {
 span {
   font-size: 14px;
   font-weight: 400;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #bfc1c7;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #515769;
   line-height: 1.4;
   margin: 0 0 15px;
@@ -152,7 +152,7 @@ h4 {
   position: relative;
   font-size: 17px;
   font-weight: 400;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #a6a7aa;
   line-height: 1.4;
   border-left: none;
@@ -673,7 +673,7 @@ fieldset[disabled] .btn-theme {
   display: block;
   font-size: 13px;
   font-weight: 600;
-  font-family: Hind, sans-serif;
+  font-family: Hind, sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #fff;
   text-transform: uppercase;
   line-height: 55px;
@@ -1017,7 +1017,7 @@ fieldset[disabled] .btn-theme {
   top: 0;
   right: 0;
   font-size: 15px;
-  font-family: "Pathway Gothic One", sans-serif;
+  font-family: "Pathway Gothic One", sans-serif;"STHeiti Light [STXihei]",华文细黑,"Microsoft YaHei",微软雅黑体;
   color: #515769;
   content: "\e082";
 }
