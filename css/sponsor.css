@@ -122,38 +122,38 @@ h2{  font-weight: 900;
 }
 
 #box9 {
-  width: 150px;
+  width: 220px;
   height: 150px;
-  background: url(https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Stora_Enso.svg/905px-Stora_Enso.svg.png);
+  background: url(../img/clients/engie.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-size:133px 150px;
+  background-size:150px;
   margin:20px;
   background-position:center;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
 }
 
 #box10 {
-  width: 200px;
+  width: 220px;
   height: 150px;
-  background: url(http://www.tulikivi.com/MEDIAPANKKI/PAINOTUOTTEET/ESITTEET/TULISIJAT/VUOLUKIVIUUNIT/Karelia/FIN/files/mobile-ext/appLogoIcon.png);
+  background: url(../img/clients/mcb.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-size:188px 150px;
+  background-size:170px;
   margin:20px;
   background-position:center;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
 }
 #box11 {
-  width: 350px;
+  width: 300px;
   height: 150px;
-  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pekkaniska-logo.svg/1000px-Pekkaniska-logo.svg.png);
+  background: url(../img/clients/MAMMOET.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-size:300px 34px;
+  background-size:320px;
   margin:20px;
   background-position:center;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
@@ -162,7 +162,7 @@ h2{  font-weight: 900;
 #box12 {
   width: 300px;
   height: 150px;
-  background: url(https://np-nieuwperspectief.nl/wp-content/uploads/Poly-Ned-1.png);
+  background: url(../img/clients/isobouw.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -174,9 +174,9 @@ h2{  font-weight: 900;
 
 
 #box13 {
-  width: 300px;
+  width: 250px;
   height: 150px;
-  background: url(http://www.scantarp.fi/site/templates/img/scantarp_logo.png);
+  background: url(../img/clients/wago.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -187,13 +187,13 @@ h2{  font-weight: 900;
 }
   
   #box14 {
-  width: 150px;
+  width: 200px;
   height: 150px;
-  background: url(../img/clients/lu.jpg);
+  background: url(../img/clients/Sioen.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-size:100px;
+  background-size:180px;
   margin:20px;
   background-position:center;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
@@ -203,7 +203,7 @@ h2{  font-weight: 900;
   #box15 {
   width: 200px;
   height: 150px;
-  background: url(https://verhuur.nl/images/company/733752/logo.png);
+  background: url(../img/clients/easycool.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -215,13 +215,13 @@ h2{  font-weight: 900;
   
    
   #box16 {
-  width: 200px;
+  width: 270px;
   height: 150px;
-  background: url(https://advocaat.balieplus.nl/wp-content/uploads/2017/01/Aon_Logo_530x260.jpg);
+  background: url(../img/clients/valk.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-size:180px 98px;
+  background-size:270px;
   margin:20px;
   background-position:center;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
@@ -229,13 +229,13 @@ h2{  font-weight: 900;
   
    
   #box17 {
-  width: 300px;
+  width: 250px;
   height: 150px;
-  background: url(http://www.innovationintextiles.com/uploads/2431/tencate_logo.jpg);
+  background: url(../img/clients/daken.png);
   background-color: white;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-size:241px;
+  background-size:220px;
   margin:20px;
   background-position:center;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
@@ -243,7 +243,7 @@ h2{  font-weight: 900;
    
    
   #box18 {
-  width: 220px;
+  width: 100px;
   height: 150px;
   background: url(../img/clients/jd.jpg);
   background-color: white;
