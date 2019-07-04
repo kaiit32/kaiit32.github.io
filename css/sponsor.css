@@ -324,6 +324,18 @@ h2{  font-weight: 900;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
 }
 
+#box24 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/jd.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
 #overlay {
   background: rgba(0, 0, 0, .75);
   text-align: center;
@@ -366,7 +378,8 @@ h2{  font-weight: 900;
 #box20:hover #overlay,
 #box21:hover #overlay,
 #box22:hover #overlay,
-#box23:hover #overlay{
+#box23:hover #overlay,
+#box24:hover #overlay{  
   opacity: 1;
 }
 
