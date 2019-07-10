@@ -468,6 +468,18 @@ h2{  font-weight: 900;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
 }
 
+#box36 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/tameson-logo-partner-fluid-control.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
 #overlay {
   background: rgba(0, 0, 0, .75);
   text-align: center;
@@ -522,7 +534,8 @@ h2{  font-weight: 900;
 #box32:hover #overlay,
 #box33:hover #overlay,
 #box34:hover #overlay,
-#box35:hover #overlay{  
+#box35:hover #overlay,
+#box36:hover #overlay{  
   opacity: 1;
 }
 
