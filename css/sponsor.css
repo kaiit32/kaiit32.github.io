@@ -324,6 +324,162 @@ h2{  font-weight: 900;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
 }
 
+#box24 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/legrand.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box25 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/nexans.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box26 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/murr.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box27 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/pvc.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box28 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/valkenpower.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box29 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/eriks.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box30 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/cablespace.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box31 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/tameson.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box32 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/elektro.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box33 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/sew.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box34 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/xylem.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box35 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/endress.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
+#box36 {
+  width: 200px;
+  height: 150px;
+  background: url(../img/clients/tameson-logo-partner-fluid-control.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size:180px 53px;
+  margin:20px;
+  background-position:center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .3);
+}
+
 #overlay {
   background: rgba(0, 0, 0, .75);
   text-align: center;
@@ -366,7 +522,20 @@ h2{  font-weight: 900;
 #box20:hover #overlay,
 #box21:hover #overlay,
 #box22:hover #overlay,
-#box23:hover #overlay{
+#box23:hover #overlay,
+#box24:hover #overlay,
+#box25:hover #overlay,
+#box26:hover #overlay,
+#box27:hover #overlay,
+#box28:hover #overlay,
+#box29:hover #overlay,
+#box30:hover #overlay,
+#box31:hover #overlay,
+#box32:hover #overlay,
+#box33:hover #overlay,
+#box34:hover #overlay,
+#box35:hover #overlay,
+#box36:hover #overlay{  
   opacity: 1;
 }
 
